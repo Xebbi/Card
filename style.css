@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .custom_btn {
+    background-color: #03fcc6;
+    border: 1px solid #36e0bb;
+    transition: 0.5s;
+}
+
+.custom_btn:hover {
+    background-color: #03e7fc;
+    border: 1px solid #36e0bb;
+} */
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.box:nth-child(1) {
+    background-color: red;
+}
+
+.box:nth-child(2) {
+    background-color: green;
+}
+
+.box:nth-child(3) {
+    background-color: blue;
+}

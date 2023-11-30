@@ -31,3 +31,12 @@
 .box:nth-child(3) {
     background-color: blue;
 }
+
+.footer_link{
+    color: black;
+    text-decoration: none;
+}
+
+.footer_link:hover{
+    color: rgb(66, 66, 66);
+}
